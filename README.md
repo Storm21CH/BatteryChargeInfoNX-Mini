@@ -8,6 +8,7 @@ A fork of https://github.com/masagrator/BatteryChargeInfoNX
 
 # Version 1.1.2 by Storm / Mini Mod by me...
 
+- HID Fix
 - Mini Mode
 - Fix for FW1600
 - Fix for Dock Mode
